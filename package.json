@@ -8,8 +8,9 @@
   },
   "author": {
     "name": "George Norman",
-    "url": "http://www.thruzero.com/"
+    "url": "https://github.com/georgenorman?tab=repositories"
   },
+  "homepage": "https://github.com/georgenorman/tessel-kit",
   "repository": {
     "type": "git",
     "url": "git://github.com/georgenorman/tessel-kit.git"
