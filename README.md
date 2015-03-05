@@ -22,7 +22,8 @@ This module contains specialized utility functions (useful for Tessel app develo
 Example:
 
 ```javascript
-// Configure the application from the commandline. If an argument is missing, then read it from the config file.
+// Configure the application from the commandline.
+// If an argument is missing, then read it from the config file.
 var climatePort = tesselKit.tesselUtils.getArgumentValue("climatePort", config);
 var refreshRate = tesselKit.tesselUtils.getArgumentValue("refreshRate", config);
 
