@@ -2,10 +2,11 @@
 
 A simple module that can be useful for basic Tessel app development.
 
+[JS Docs](http://www.thruzero.com/tessel-kit/jsdoc/index.html)
 
 ## Examples
 
-* [Tessel Climate Module Test Project](https://github.com/georgenorman/tessel-climate)
+* [TesselKit JSDocs](http://www.thruzero.com/tessel-kit/jsdoc/index.html)
 
 
 ## Overview of the TesselKit Modules
